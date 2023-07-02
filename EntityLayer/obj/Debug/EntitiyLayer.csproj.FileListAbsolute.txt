@@ -1,0 +1,2 @@
+C:\Users\90505\Desktop\fitness-website\Mvc\EntitiyLayer\obj\Debug\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\90505\Desktop\fitness-website\Mvc\EntitiyLayer\obj\Debug\EntitiyLayer.csproj.CoreCompileInputs.cache
